@@ -1,0 +1,304 @@
+
+
+
+
+
+
+{
+	margin: 0;
+	padding:0; 
+}
+
+
+.NavigationBar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar-brand img
+{
+	height: 40px;
+	padding-left: :30px;
+
+}
+navbar-nav li
+{
+	padding: 0,10px;
+}
+navbar-nav li a
+{
+	float: right;
+	text-align: left;
+
+}
+#NavigationBar li a : hover
+{
+	color: #007bff!important;
+}
+#NavigationBar li a:hover:not(.active) {
+  background-color: #888;
+  color: white;
+}
+.navbar
+{
+	background: #fff;
+}
+.navbar-toggler
+{
+
+ border: none!important;
+
+}
+.nav-link
+{
+	color: #555!important;
+	font-weight: 600;
+	font-size: 16px;
+}
+#slider
+{
+	width: 100%;
+
+}
+.carousel-caption
+{
+   top: 50%;
+   transform: translateY(-50%);
+   bottom :initial!important;
+}
+.carousel-caption h5
+{
+	color: #fff;
+	font-size: 55px;
+
+}
+#About{
+	padding-top: 100px;
+	padding-right: 50px;
+	padding-left: 50px;
+
+
+}
+.about-contant{
+	padding-top: 25px;
+}
+ul.a{
+	padding-top:20px;
+	padding: 30px;
+	list-style-type: circle;
+	
+
+}
+#services
+{
+	color: #efefef!important;
+	background-color: hsl(248, 53%, 58%);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+	padding-bottom: 50px;
+	}
+#services h1
+{
+	text-align:center;
+	color: #efefef!important;
+	padding-bottom: 10px;
+}
+#services h1:: after{
+	content: '';
+	background: #efefef;
+	display: black;
+	height: 3px;
+	width: 170px;
+	margin: 20px auto 5px;
+}
+.services{
+	margin-top:40px;
+
+}
+.icon{
+	font-size: 40px;
+	margin: 20px auto;
+	padding:20px;
+	height:80px;
+	width: 80px;
+	border:1px solid #fff;
+	border-radius: 50%;
+}
+ #services p
+{
+	font-size: 14px;
+	margin-top: 20px;
+	color: #ccc;
+}
+.services .col-md-3:hover{
+	background:#007bff;
+	cursor: pointer;
+	transition: 0.7s;
+	}
+#Why {
+
+	
+	
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+	padding-bottom: 50px;
+	
+}
+#call{
+	color: #efefef!important;
+	background-color: hsl(248, 53%, 58%);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+	padding-bottom: 50px;
+}
+.buttonsize{
+	text-align: center;
+	 
+ 
+ 
+
+}
+#Voluptatem{
+	
+	
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+	padding-bottom: 50px;
+}
+#Neque{
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+	padding-bottom: 50px;
+}
+#Our{
+	
+	background-color: #F0F8FF;
+	background-size: cover;{
+
+
+
+	}
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+#Testimonials{
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+	padding-bottom: 50px;
+}
+
+ @media only screen and (max-width: 767px){
+
+#about{
+        width: 100%;
+
+}
+#NavigationBar{
+	width: 100%;
+}
+
+.sss {
+   padding-left: -20px;
+   padding-top: 200px;
+
+}
+h1{
+	color: red !important;
+}
+#services{
+	background-color: black;
+}
+
+#cource{
+         background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align:center:20px;
+
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
